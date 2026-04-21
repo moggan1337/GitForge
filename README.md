@@ -1,5 +1,7 @@
 # GitForge ⚒️
 
+[![CI](https://github.com/moggan1337/GitForge/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/GitForge/actions/workflows/ci.yml)
+
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![TypeScript](https://img.shields.io/badge/typescript-5.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-orange)
@@ -12,6 +14,24 @@
 Whether you're building automation scripts, CI/CD pipelines, or developer tools, GitForge gives you programmatic control over common Git workflows without needing to remember complex command-line arguments.
 
 ---
+
+## 🎬 Demo
+![GitForge Demo](demo.gif)
+
+*Programmatic Git workflow automation*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Commit Graph | ![graph](screenshots/commit-graph.png) |
+| Rebase Preview | ![rebase](screenshots/rebase-preview.png) |
+| PR Dashboard | ![pr](screenshots/pr-dash.png) |
+
+## Visual Description
+Commit graph displays branch structure with merge relationships. Rebase preview shows before/after commit sequences. PR dashboard lists pull requests with status and review states.
+
+---
+
 
 ## Table of Contents
 
